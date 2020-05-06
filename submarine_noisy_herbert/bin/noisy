@@ -1,0 +1,7 @@
+#! /usr/bin/env python
+
+import noisemaker.noise
+
+
+if __name__ == '__main__':
+    noisemaker.noise.start('my friend!')
